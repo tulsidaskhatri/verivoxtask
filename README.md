@@ -6,6 +6,9 @@ Instructions to run
 
 npm i nodemon -g
 
+# Install packages:
+npm install
+
 # Start server:
 
 npm start
