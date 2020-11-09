@@ -20,3 +20,6 @@ DEBUG=startup npm start
 # To run tests (make sure port 3000 (or defined in env) is free to run integeration tests):
 
 npm test
+
+# usage:
+http://localhost:3000/?consumption=3500
